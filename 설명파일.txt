@@ -1,0 +1,6 @@
+1.temp 파일 => 선수정보 , temp로 옮겨야 함 
+2.worldcup  => 자바파일
+3.필요한 db => 필요한 디비
+1. sql문의 create 적용하기
+2. sql문의 insert 적용하기
+3. db작업 완료
